@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    margin: auto;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.ps4{
+    background-color: blue;
+}
+
+.nintendo{
+    background-color: #ff0000;
+}
+
+.pc{
+    background-color: green;
+}
+.games{
+    display: inline-flex;
+}
+
+table, th, tr, td{
+    border: 2px solid;
+    margin: auto;
+ }
+
+ 
+ li:hover{
+     background-color: red;
+ }
